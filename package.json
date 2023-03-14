@@ -1,0 +1,22 @@
+{
+    "name": "@coodex/event-bus",
+    "version": "0.0.1",
+    "description": "event bus",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {},
+    "author": "davidoff shen",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/coodex2016/event-bus.git"
+    },
+    "bugs": {
+        "url": "https://github.com/coodex2016/event-bus/issues"
+    },
+    "homepage": "https://github.com/coodex2016/event-bus",
+    "devDependencies": {
+        "eslint": "^8.3.0"
+    },
+    "dependencies": {}
+}
